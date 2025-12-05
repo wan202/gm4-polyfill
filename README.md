@@ -6,3 +6,4 @@ Include it in your script like:
     // @require https://greasemonkey.github.io/gm4-polyfill/gm4-polyfill.js
 
 Read the source of the file for more details.
+ 
